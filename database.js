@@ -24,7 +24,7 @@ db.connect((err)=>{
     if(err){
         throw err;
     }else{
-        console.log('connected');
+        console.log('connected'); // 
     }
 })
 
